@@ -71,21 +71,22 @@ You should be able to ...
 You should have a basic familiarity with the command line in case you need to do advanced Git commands. Many folks use the CLI for file editing, though I'm not going to make you suffer when we have Atom installed. You've used most of these already through a GUI (e.g. `git status`, `git add`, `git commit`, `git push`) ...
 
 
-- [ ] In Github Desktop, with the [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repo you cloned above selected, click Repository > Open in Terminal ("Bash" in Windows?)
-- [ ] Use the CLI to navigate directories  
-  - [ ] List files in this directory: `ls`
-  - [ ] List files in this directory, including hidden: `ls -la`  
-  - [ ] Confirm the existence of the `.git` directory (where Git versions and config are stored)
-  - [ ] View your current directory and copy the full path: `pwd`
-  - [ ] Open this README file in Atom and paste that path here: **??**
-- [ ] Use Git on the CLI
-  - [ ] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
-  - [ ] View the status of your repo: `git status`
-  - [ ] View the changed files of your repo: `git diff`
-  - [ ] Add all changed files to the staging area `git add .`
-  - [ ] View the status of your repo `git status` to confirm it has been staged
-  - [ ] Commit your changes with the message `commit #3 from CLI`
-  - [ ] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
+- [X] In Github Desktop, with the [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repo you cloned above selected, click Repository > Open in Terminal ("Bash" in Windows?)
+- [X] Use the CLI to navigate directories  
+  - [X] List files in this directory: `ls`
+  - [X] List files in this directory, including hidden: `ls -la`  
+  - [X] Confirm the existence of the `.git` directory (where Git versions and config are stored)
+  - [X] View your current directory and copy the full path: `pwd`
+  - [X] Open this README file in Atom and paste that path here: /Users/hcarp/Downloads/Davidson/Junior/web_design/learn-git-milestones
+hopes-mbp:learn-git-milestones
+- [X] Use Git on the CLI
+  - [X] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
+  - [X] View the status of your repo: `git status`
+  - [X] View the changed files of your repo: `git diff`
+  - [X] Add all changed files to the staging area `git add .`
+  - [X] View the status of your repo `git status` to confirm it has been staged
+  - [X] Commit your changes with the message `commit #3 from CLI`
+  - [X] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
 
 
 ### Git in Atom
